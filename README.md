@@ -1,5 +1,5 @@
 # Excel-Sales-Analytics
-Sales and Finance Analytics Report
+Sales and Finance Analytics Report(https://github.com/prashantparekh810/Excel-Sales-Analytics/blob/main/Sales%20and%20financial%20analytics.pdf)
 
 #Project Overview:
 
